@@ -1,0 +1,14 @@
+{
+    "builds": [
+      {
+        "src": "urlredirect.py",
+        "use": "@vercel/python"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "urlredirect.py"
+      }
+    ]
+  }
