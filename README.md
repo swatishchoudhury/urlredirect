@@ -5,9 +5,12 @@ This is a simple Flask app that allows users to create short/dynamic URLs that r
 ### Features
 
 -   Create short URLs that redirect to a long URL
--   In case you want to hardcode a URL somewhere, you can use this and change it dynamically from `redirects`. 
+-   In case you want to hardcode a URL somewhere, you can use this and change it dynamically from `redirects`.
+- Example: https://urldirect.vercel.app/linkedin 
 
 ### Setup
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/swatishchoudhury/urlredirect)
+
 
 To run locally:
 1.  Install Flask: `pip install flask`
