@@ -1,4 +1,4 @@
-## URL Shortener/Redirector Flask App
+## URL Redirector Flask App
 
 This is a simple Flask app that allows users to create short/dynamic URLs that redirect to a specified URL.
 
